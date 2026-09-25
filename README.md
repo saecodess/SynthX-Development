@@ -1,4 +1,4 @@
-# <p align="center">⚡ SynthX Development — Official Legal & Governance Portal</p>
+# <p align="center"> SynthX Development — Official Legal & Governance Portal</p>
 
 <p align="center">
   <strong>The Official Legal Framework, Compliance Documentation & Terms of Service for SynthX Systems</strong>
