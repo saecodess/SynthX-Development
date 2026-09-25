@@ -1,4 +1,6 @@
-# <p align="center"> SynthX Development — Official Legal & Governance Portal</p>
+<div align="center">
+  <img src="assets/synthx-logo.png" width="96" height="96" alt="CherryCraft">
+  # <p align="center"> SynthX Development — Official Legal & Governance Portal</p>
 
 <p align="center">
   <strong>The Official Legal Framework, Compliance Documentation & Terms of Service for SynthX Systems</strong>
